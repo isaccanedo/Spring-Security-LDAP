@@ -132,6 +132,6 @@ Neste guia rápido de Spring Security com LDAP, aprendemos como provisionar um s
 - Nome de usuário: 'isaccanedo', senha: 'isac'
 - Isso irá autenticá-lo e exibir suas funções alocadas (conforme definido no arquivo 'users.ldif')
 
-Hope that helps. Cheers,
+Hope that helps. Cheers,<br>
 Isac Canedo :wink:
 
